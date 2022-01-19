@@ -1,4 +1,4 @@
-class Solution {
+class Solution {  //2- pointer
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
         sort(nums1.begin(), nums1.end());
